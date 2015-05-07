@@ -1,3 +1,11 @@
+rem #----------------------------------------------------#
+rem # How to install:                                    #
+rem # 1.Save this in a Textfile on a windows computer.   #
+rem # 2.Save the Textfile as 'TotalWar-V2.2.1.bat'!      #
+rem # 3.Enjoy :D                                         #
+rem #----------------------------------------------------#
+rem Have problems? Support: hecker.hille@gmail.com
+
 :start
 @echo off
 cls
